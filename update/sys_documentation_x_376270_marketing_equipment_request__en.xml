@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Events" language="en" table="x_376270_marketing_events_table">
+    <sys_documentation element="" label="Equipment Request" language="en" table="x_376270_marketing_equipment_request">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>Events</label>
+            <label>Equipment Request</label>
             <language>en</language>
-            <name>x_376270_marketing_events_table</name>
-            <plural>Events</plural>
+            <name>x_376270_marketing_equipment_request</name>
+            <plural>Equipment Requests</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-11 08:46:29</sys_created_on>
-            <sys_id>a3a51182dba23300aa540181ca9619f5</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Events</sys_name>
+            <sys_created_on>2019-07-11 09:15:21</sys_created_on>
+            <sys_id>ee4c5586dba23300aa540181ca961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Equipment Request</sys_name>
             <sys_package display_value="Marketing&#9;Events" source="x_376270_marketing">dba5150adb223300aa540181ca961909</sys_package>
             <sys_policy/>
             <sys_scope display_value="Marketing&#9;Events">dba5150adb223300aa540181ca961909</sys_scope>
-            <sys_update_name>sys_documentation_x_376270_marketing_events_table__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_376270_marketing_equipment_request__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-11 09:26:08</sys_updated_on>
+            <sys_updated_on>2019-07-11 09:15:21</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
